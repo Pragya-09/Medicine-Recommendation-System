@@ -1,0 +1,64 @@
+
+.css-nlntq9 li {
+    margin: 0.2em 0px 0.2em 1.2em;
+    padding: 0px 0px 0px 0.6em;
+    font-size: 22px;
+    color: black; /* Add this line to set the font color to black */
+}
+
+h1{
+    color: red;
+    background-color: #ffff66;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+a{
+    padding: 5px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.css-qrbaxs {
+    color: black; /* Set the text color to black */
+    background: linear-gradient(to right, #ADD8E6, #90EE90);
+    font-size: 25px;
+    padding: 2.4px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+p, ol, ul, dl {
+    color: black; /* Set the text color to black */
+    background: linear-gradient(to right, #ADD8E6, #90EE90);
+    padding: 20px 10px;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 20px;
+    align-items: center
+}
+
+.css-1cpxqw2 {
+    color: black; /* Set the text color to black */
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin-bottom: 50px;
+    line-height: 1.6;
+    background: linear-gradient(to right, #ADD8E6, #90EE90);
+    border: 1px solid rgba(49, 51, 63, 0.2);
+}
+
+.st-bt {
+    color: black; /* Set the text color to black */
+    align=center
+    font-size: 25px;
+    font-weight: 600;
+    background: linear-gradient(to right, #ADD8E6, #90EE90);
+}

@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" modified="2023-10-08T17:12:10.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="m4rIYgLZCOJv6u5cFs_u" version="21.7.5" type="device">
+  <diagram name="Page-1" id="5-hXPcuuXJ_jRMlCjGAI">
+    <mxGraphModel dx="1167" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1" target="QWOFpm2IIpvu44rnNj3L-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="QWOFpm2IIpvu44rnNj3L-3" target="QWOFpm2IIpvu44rnNj3L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-3" value="Data Loading" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="QWOFpm2IIpvu44rnNj3L-4" target="QWOFpm2IIpvu44rnNj3L-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-4" value="Data Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="QWOFpm2IIpvu44rnNj3L-5" target="QWOFpm2IIpvu44rnNj3L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-5" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="QWOFpm2IIpvu44rnNj3L-6" target="QWOFpm2IIpvu44rnNj3L-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-6" value="Similarity Calculation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="QWOFpm2IIpvu44rnNj3L-7" target="QWOFpm2IIpvu44rnNj3L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-7" value="Recommendation Function" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="QWOFpm2IIpvu44rnNj3L-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-8" value="Save the Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-17" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-19" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-20" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Removal of Null and Missing Value&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Tokenization&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Stopwords Removal&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Porter Stemmer Algorithm&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1" target="QWOFpm2IIpvu44rnNj3L-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="220" as="sourcePoint" />
+            <mxPoint x="630" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-23" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Calculate cosine similarity between feature vectors of medicines&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="355" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="379.63" as="sourcePoint" />
+            <mxPoint x="520" y="379.63" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="379.63" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-25" value="&lt;ul style=&quot;font-size: 13px;&quot;&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Finds the most similar medicines based on the similarity matrix.&lt;/li&gt;&lt;li style=&quot;font-size: 13px;&quot;&gt;Returns the top 5 similar medicines based on cosine similarity.&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=13;strokeWidth=2;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="422.5" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="QWOFpm2IIpvu44rnNj3L-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;strokeWidth=2;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="459.63" as="sourcePoint" />
+            <mxPoint x="520" y="459.63" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="459.63" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
